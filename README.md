@@ -13,6 +13,8 @@ import: https://raw.githubusercontent.com/LiaTemplates/ABCjs/0.0.2/README.md
 
 -->
 
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/Demo-State/main/README.md)
+
 # LiveEditor - Demo
 
 Where does LiaScript store state?
